@@ -1,6 +1,7 @@
 #lang racket
 
-(require 2htdp/universe 2htdp/image)
+(require 2htdp/universe)
+(require 2htdp/image)
 
 (define WIDTH 1180)
 (define HEIGHT 680)
