@@ -20,7 +20,7 @@ more wishes:
 |#
 
 (define (main)
-  (big-bang 0
+  (big-bang 250
     (on-tick add-3-to-state)
     (to-draw draw-a-ufo-onto-an-empty-scene)))
 
